@@ -1,0 +1,14 @@
+C:\Workspace\AzureGraphAuth\AzureGraphAuthApp\WebApplication1\obj\Debug\netcoreapp2.1\AzureGraphAuthApp.csprojAssemblyReference.cache
+C:\Workspace\AzureGraphAuth\AzureGraphAuthApp\WebApplication1\obj\Debug\netcoreapp2.1\AzureGraphAuthApp.csproj.CoreCompileInputs.cache
+C:\Workspace\AzureGraphAuth\AzureGraphAuthApp\WebApplication1\obj\Debug\netcoreapp2.1\AzureGraphAuthApp.RazorAssemblyInfo.cache
+C:\Workspace\AzureGraphAuth\AzureGraphAuthApp\WebApplication1\obj\Debug\netcoreapp2.1\AzureGraphAuthApp.RazorAssemblyInfo.cs
+C:\Workspace\AzureGraphAuth\AzureGraphAuthApp\WebApplication1\obj\Debug\netcoreapp2.1\AzureGraphAuthApp.AssemblyInfoInputs.cache
+C:\Workspace\AzureGraphAuth\AzureGraphAuthApp\WebApplication1\obj\Debug\netcoreapp2.1\AzureGraphAuthApp.AssemblyInfo.cs
+C:\Workspace\AzureGraphAuth\AzureGraphAuthApp\WebApplication1\obj\Debug\netcoreapp2.1\AzureGraphAuthApp.RazorTargetAssemblyInfo.cache
+C:\Workspace\AzureGraphAuth\AzureGraphAuthApp\WebApplication1\obj\Debug\netcoreapp2.1\AzureGraphAuthApp.dll
+C:\Workspace\AzureGraphAuth\AzureGraphAuthApp\WebApplication1\obj\Debug\netcoreapp2.1\AzureGraphAuthApp.pdb
+C:\Workspace\AzureGraphAuth\AzureGraphAuthApp\WebApplication1\bin\Debug\netcoreapp2.1\AzureGraphAuthApp.deps.json
+C:\Workspace\AzureGraphAuth\AzureGraphAuthApp\WebApplication1\bin\Debug\netcoreapp2.1\AzureGraphAuthApp.runtimeconfig.json
+C:\Workspace\AzureGraphAuth\AzureGraphAuthApp\WebApplication1\bin\Debug\netcoreapp2.1\AzureGraphAuthApp.runtimeconfig.dev.json
+C:\Workspace\AzureGraphAuth\AzureGraphAuthApp\WebApplication1\bin\Debug\netcoreapp2.1\AzureGraphAuthApp.dll
+C:\Workspace\AzureGraphAuth\AzureGraphAuthApp\WebApplication1\bin\Debug\netcoreapp2.1\AzureGraphAuthApp.pdb
